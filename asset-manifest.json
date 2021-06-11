@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Crypto-Currency-React-JS/static/css/main.5cff6b30.chunk.css",
+    "main.js": "/Crypto-Currency-React-JS/static/js/main.2383dfc2.chunk.js",
+    "main.js.map": "/Crypto-Currency-React-JS/static/js/main.2383dfc2.chunk.js.map",
+    "runtime-main.js": "/Crypto-Currency-React-JS/static/js/runtime-main.52bbd533.js",
+    "runtime-main.js.map": "/Crypto-Currency-React-JS/static/js/runtime-main.52bbd533.js.map",
+    "static/js/2.cc089d40.chunk.js": "/Crypto-Currency-React-JS/static/js/2.cc089d40.chunk.js",
+    "static/js/2.cc089d40.chunk.js.map": "/Crypto-Currency-React-JS/static/js/2.cc089d40.chunk.js.map",
+    "index.html": "/Crypto-Currency-React-JS/index.html",
+    "static/css/main.5cff6b30.chunk.css.map": "/Crypto-Currency-React-JS/static/css/main.5cff6b30.chunk.css.map",
+    "static/js/2.cc089d40.chunk.js.LICENSE.txt": "/Crypto-Currency-React-JS/static/js/2.cc089d40.chunk.js.LICENSE.txt",
+    "static/media/amazon.8a708a0e.svg": "/Crypto-Currency-React-JS/static/media/amazon.8a708a0e.svg",
+    "static/media/google.63312655.png": "/Crypto-Currency-React-JS/static/media/google.63312655.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52bbd533.js",
+    "static/js/2.cc089d40.chunk.js",
+    "static/css/main.5cff6b30.chunk.css",
+    "static/js/main.2383dfc2.chunk.js"
+  ]
+}
